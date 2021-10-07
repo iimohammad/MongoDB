@@ -1,4 +1,4 @@
 <div dir="rtl">
-##آموزش MongoDB
+##آموزش 
 
 </div>
