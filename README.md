@@ -1,4 +1,3 @@
-<div dir="rtl">
-## آموزش MongoDB 
+# MongoDB Course  
 
-</div>
+
